@@ -1,4 +1,5 @@
 # my-first-github-repository
 This is my first github repository - testing.
 
-README.md file was just edited manually. This file was modified locally.
+This line was modified manually during conflict resolution. 
+Previous lines causing the conflict have been removed.
